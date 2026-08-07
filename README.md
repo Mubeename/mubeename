@@ -44,5 +44,25 @@ Microsoft Dynamics 365 CRM Functional Consultant with 8+ years of experience acr
 - Microsoft Power BI – Data Analysis & Visualization
 - HubSpot Certifications: Data Integrations, Sales Software, CMS
 
+## 💼 Projects
+
+### Expense Management System (Microsoft Power Platform)
+An end-to-end expense management solution built on Dynamics 365 / Power Apps (model-driven app) and Dataverse, covering expense submission, multi-stage approval, and reporting.
+
+**Key highlights:**
+- **Data model:** Custom Dataverse tables including Expense Request and Expense Items, alongside core entities like Account and Contact.
+- **Business Process Flow:** A 3-stage Expense Approval Process (Data Capture → Review Stage → Approval Stage) with separate Employee and Manager forms for submitting and approving requests.
+- **Automation:** Background workflows including an Account Workflow and an Email Notification workflow that automatically alerts managers when a new expense request is submitted.
+- **AI-assisted experience:** Copilot-enabled "Form Assist" on the Expense Request form, with drag-and-drop/smart-paste support for AI-generated suggestions.
+- **Reporting:** An interactive "Accounts Single Stream" dashboard with charts (Accounts by Industry, Accounts by Owner) for real-time visibility into account data.
+- **Solution:** Delivered as a dedicated "Expense Management System" solution with 19 components — tables, processes, a site map, dashboards, and a model-driven app.
+
+**Screenshots:**
+<img width="1470" height="797" alt="solution-objects" src="https://github.com/user-attachments/assets/54e2ccf6-7775-4fb1-97c3-4e7652d82057" />
+*Solution explorer showing the Expense Management System components*
+
+
+
+
 ---
 📫 Reach me at **mubicoorg786@gmail.com** or connect on [LinkedIn](https://linkedin.com/in/mubeename)
