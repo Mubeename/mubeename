@@ -1,68 +1,96 @@
-# Hi, I'm Mubeena M E 👋
+<p align="center">
+  <img src="./assets/banner.svg" alt="Mubeena M E — Microsoft Dynamics 365 CRM & Power Platform Consultant" width="100%" />
+</p>
 
-### Microsoft Dynamics 365 CRM Functional Consultant | Power Platform & AI Solutions Specialist
+<h3 align="center">Power Apps · Power Automate · Power BI · Dynamics 365 · Business Analysis</h3>
 
-📍 Abu Dhabi, UAE
-📧 mubicoorg786@gmail.com
-🔗 [LinkedIn](https://linkedin.com/in/mubeename)
+<p align="center">
+  <a href="https://www.linkedin.com/in/mubeename"><img src="https://img.shields.io/badge/LinkedIn-mubeename-0A66C2?style=for-the-badge" alt="LinkedIn" /></a>
+  <a href="mailto:mubicoorg786@gmail.com"><img src="https://img.shields.io/badge/Email-mubicoorg786%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <img src="https://img.shields.io/badge/Based%20in-Abu%20Dhabi%2C%20UAE-0F766E?style=for-the-badge" alt="Abu Dhabi, UAE" />
+</p>
+
+---
+
+## 👋 About me
+
+I have **8+ years** delivering **Dynamics 365 CRM** and **Power Platform** solutions across telecom, IT, airline and consulting.
+I turn business problems into working solutions: **apps, automated workflows, dashboards and CRM enhancements**.
+📍 Based in **Abu Dhabi, UAE**.
 
 ---
 
-## About Me
-Microsoft Dynamics 365 CRM Functional Consultant with 8+ years of experience across CRM implementation, Power Platform solutioning, and business process automation in IT, telecom, and consulting environments. Skilled in Dynamics 365 (Sales, Customer Service, Customer Insights), Power Platform (Power Automate, Power BI, Power Apps, Dataverse), and AI-driven tools including Microsoft Copilot. Experienced in BRD documentation, stakeholder coordination, and driving enterprise CRM and AI adoption.
+## 🧩 What I do
 
-## 🛠️ Skills
-
-![Dynamics365](https://img.shields.io/badge/Dynamics%20365-002050?style=flat-square&logo=microsoft&logoColor=white)
-![PowerAutomate](https://img.shields.io/badge/Power%20Automate-0066FF?style=flat-square&logo=power-automate&logoColor=white)
-![PowerApps](https://img.shields.io/badge/Power%20Apps-742774?style=flat-square&logo=powerapps&logoColor=white)
-![PowerBI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![Azure](https://img.shields.io/badge/Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white)
-![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=flat-square&logo=salesforce&logoColor=white)
-![HubSpot](https://img.shields.io/badge/HubSpot-FF7A59?style=flat-square&logo=hubspot&logoColor=white)
-
-**CRM Platforms:** Microsoft Dynamics 365 (Sales, Customer Service, Customer Insights), Salesforce, Zoho CRM, HubSpot
-
-**Power Platform & AI:** Power Automate, Power Apps, Power BI, Dataverse, Microsoft Copilot, Generative AI-Assisted Workflows, Microsoft Azure (Fundamentals)
-
-**Business Analysis:** Business Requirement Documents (BRD), Business Process Analysis, UAT, Functional Requirement Gathering, Solution Design
-
-**Reporting & Analytics:** Power BI Reporting, Dashboard Design, Data Visualization, CRM Data Quality Management
-
-## 💼 Experience Highlights
-- **Freelance CRM & Power Platform Consultant** (Oct 2024–Present) — Delivered end-to-end D365 & Power Platform consulting across 10+ client engagements
-- **Digital Solutions Specialist, Etisalat** (Apr 2023–Oct 2024) — Led CRM configuration and solutioning for a large enterprise user base
-- **Team Lead, Microsoft Functional Consultant, Tezo** (Feb 2021–Jul 2022) — Led a team delivering D365 functional consulting
-
-## 🎓 Education
-- MBA – Project Management, Bharathiar University
-- B.E. – Electronics & Communication, KVG College of Engineering
-
-## 📜 Certifications
-- Microsoft Dynamics 365 Customer Service Functional Consultant – MB-230 (In Progress)
-- Microsoft Certified: Intelligent Applications Builder Associate – AB-410 (In Progress)
-- Microsoft Power BI – Data Analysis & Visualization
-- HubSpot Certifications: Data Integrations, Sales Software, CMS
-
-## 💼 Projects
-
-### Expense Management System (Microsoft Power Platform)
-An end-to-end expense management solution built on Dynamics 365 / Power Apps (model-driven app) and Dataverse, covering expense submission, multi-stage approval, and reporting.
-
-**Key highlights:**
-- **Data model:** Custom Dataverse tables including Expense Request and Expense Items, alongside core entities like Account and Contact.
-- **Business Process Flow:** A 3-stage Expense Approval Process (Data Capture → Review Stage → Approval Stage) with separate Employee and Manager forms for submitting and approving requests.
-- **Automation:** Background workflows including an Account Workflow and an Email Notification workflow that automatically alerts managers when a new expense request is submitted.
-- **AI-assisted experience:** Copilot-enabled "Form Assist" on the Expense Request form, with drag-and-drop/smart-paste support for AI-generated suggestions.
-- **Reporting:** An interactive "Accounts Single Stream" dashboard with charts (Accounts by Industry, Accounts by Owner) for real-time visibility into account data.
-- **Solution:** Delivered as a dedicated "Expense Management System" solution with 19 components — tables, processes, a site map, dashboards, and a model-driven app.
-
-**Screenshots:**
-<img width="1470" height="797" alt="solution-objects" src="https://github.com/user-attachments/assets/54e2ccf6-7775-4fb1-97c3-4e7652d82057" />
-*Solution explorer showing the Expense Management System components*
-
-
-
+| Area | Focus |
+|---|---|
+| 🏢 **Dynamics 365 CRM** | Customer Service & Sales · case management · CRM administration · CRM enhancements |
+| 📱 **Power Apps** | Canvas and model-driven apps on Dataverse and SharePoint |
+| ⚡ **Power Automate** | Workflow automation · document generation · approvals · notifications · integrations |
+| 📊 **Power BI** | Dashboards · KPI reporting · data analysis |
+| 🧭 **Business analysis** | Requirements · BRDs · process mapping · UAT · sprint planning · go-live |
+| 🛡️ **Data quality & governance** | Security roles · data migration · deduplication |
 
 ---
-📫 Reach me at **mubicoorg786@gmail.com** or connect on [LinkedIn](https://linkedin.com/in/mubeename)
+
+## 🛠️ Tech stack
+
+<p>
+  <img src="https://img.shields.io/badge/Dynamics%20365-002050?style=for-the-badge" alt="Dynamics 365" />
+  <img src="https://img.shields.io/badge/Power%20Apps-742774?style=for-the-badge" alt="Power Apps" />
+  <img src="https://img.shields.io/badge/Power%20Automate-0066FF?style=for-the-badge" alt="Power Automate" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logoColor=black" alt="Power BI" />
+  <img src="https://img.shields.io/badge/Dataverse-088142?style=for-the-badge" alt="Dataverse" />
+  <img src="https://img.shields.io/badge/SharePoint-038387?style=for-the-badge" alt="SharePoint" />
+  <img src="https://img.shields.io/badge/Microsoft%20Copilot-6C5CE7?style=for-the-badge" alt="Microsoft Copilot" />
+  <br />
+  <img src="https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge" alt="Azure DevOps" />
+  <img src="https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="JIRA" />
+  <img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge" alt="Salesforce" />
+  <img src="https://img.shields.io/badge/Zoho%20CRM-E42527?style=for-the-badge&logo=zoho&logoColor=white" alt="Zoho CRM" />
+  <img src="https://img.shields.io/badge/HubSpot-FF7A59?style=for-the-badge&logo=hubspot&logoColor=white" alt="HubSpot" />
+</p>
+
+---
+
+## 🚀 Featured projects
+
+| Project | What it is | Main tech |
+|---|---|---|
+| 📄 [**Contract Automation Solution**](https://github.com/mubeename/power-platform-contract-automation) | One form generates 10+ contract types as PDFs across 11 flow branches | Power Apps · Power Automate · SharePoint |
+| 💸 [**Expense Management System**](https://github.com/mubeename/expense-management-system) | Model-driven app for expense submission, multi-stage approval and reporting | Power Apps · Dataverse · Copilot |
+| 🎧 [**Customer Service Case Automation**](https://github.com/mubeename/d365-case-automation-case-study) | Case study: automated case creation, routing, SLAs and escalations | Dynamics 365 Customer Service · Power Automate |
+| 📊 [**Service Performance Reporting**](https://github.com/mubeename/powerbi-service-performance-case-study) | Case study: automated service dashboards replacing manual Excel reports | Power BI · Dataverse |
+| ✈️ [**Airline Guest Complaints CRM**](https://github.com/mubeename/airline-complaints-crm-case-study) | Case study & prototype: complaint handling CRM for an airline | Dynamics 365 Customer Service · Power BI |
+| 🛡️ [**D365 & Power Platform Governance Playbook**](https://github.com/mubeename/d365-power-platform-governance-playbook) | Knowledge guide: security, ALM, DLP, data retention, GDPR & UAE PDPL | Dynamics 365 · Power Platform |
+
+---
+
+## 🎓 Certifications
+
+- 🟦 **MB-230** — Microsoft Dynamics 365 Customer Service Functional Consultant *(In Progress)*
+- 🟦 **AB-410** — Microsoft Certified: Intelligent Applications Builder Associate *(In Progress)*
+- ❄️ **Snowflake** — Sales & Technical Sales Accreditations
+- 🟧 **HubSpot** certifications
+- 🟨 **Power BI** (Udemy)
+- 🟪 **Dynamics 365 CRM & Power Platform** (Udemy)
+
+---
+
+## 💼 Experience & education
+
+- **Freelance CRM & Power Platform Consultant** (Oct 2024 – Present)
+- **Digital Solutions Specialist**, Etisalat (Apr 2023 – Oct 2024)
+- **Team Lead, Microsoft Functional Consultant**, Tezo (Feb 2021 – Jul 2022)
+- 🎓 MBA – Project Management, Bharathiar University · B.E. – Electronics & Communication, KVG College of Engineering
+
+---
+
+<p align="center">
+  <b>Open to Dynamics 365 CRM, Power Platform, Power BI, CRM Specialist and Business Analyst roles.</b><br />
+  Let's connect 👉 <a href="https://www.linkedin.com/in/mubeename">LinkedIn</a> · <a href="mailto:mubicoorg786@gmail.com">Email</a>
+</p>
+
+<p align="center">
+  <img src="./assets/footer.svg" alt="" width="100%" />
+</p>
